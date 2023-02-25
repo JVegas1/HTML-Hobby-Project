@@ -1,3 +1,3 @@
 # HTML-Hobby-Project
  Project 1- HTML
-Link -> https://github.com/JVegas1/HTML-Hobby-Project
+Link -> https:JVegas1/github.io/HTML-Hobby-Project
